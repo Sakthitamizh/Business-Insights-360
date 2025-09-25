@@ -1,16 +1,44 @@
-# Business-Insights-360
-#AtliQ Hardwares is a global seller of computer peripherals selling through various distributors, direct stores and ecommerce portals. This project is to analyze their finance, sales, marketing, supply chain performance across markets. 
+#AtliQ Hardwares – Business Insights 360 Project
 
-#I have prepared dashboard views for all five departments and aslo executive view for C's of AtliQ Hardware. 
+#AtliQ Hardwares is a global provider of computer peripherals, operating through distributors, direct retail outlets, and e-commerce platforms. This project focuses on analyzing the company’s Finance, Sales, Marketing, and Supply Chain performance across different markets, along with an Executive view for strategic decision-making.
 
-#Finance View: P & L statement, Top & Bottom products and customers by netsales, Net sales perfomance over time.
+#Finance Dashboard:
 
-#Sales View: Customer & Products performance of Netsales and gross margin, Perfomance matrix of region and customers over netsales and gross margin.
+Profit & Loss statement.
 
-#Marketing View: Region, market customer and product performance over netsales, gross margin and net profit, performance matrix of products and divions over netsales and net profit.
+Top and bottom-performing products and customers by Net Sales.
 
-#Supply Chain View: Identified key metrics of forecast accuracy for products and customers over segments, analyzed accuracy and net error trend over the years.
+Net Sales performance trends over time.
 
-#Executive View: Key insights by sub zone, revenue by divison and channel, Top 5 cutomers and products by revenue, yeraly trend by revenue, gross margin, net profit and market share, PC market share for AtliQ and    competitors.
+#Sales Dashboard:
 
-#This will give us the overall performance of Atliq Hardware over the years in various departments and makes us to take a decision to improve the business.  
+Customer and product performance on Net Sales and Gross Margin.
+
+Regional and customer performance matrix for Net Sales and Gross Margin.
+
+#Marketing Dashboard:
+
+Performance analysis by region, market, customer, and product across Net Sales, Gross Margin, and Net Profit.
+
+Product and division performance matrix across Net Sales and Net Profit.
+
+#Supply Chain Dashboard:
+
+Key metrics on forecast accuracy for products and customers across segments.
+
+Trend analysis of forecast accuracy and net error over the years.
+
+#Executive Dashboard:
+
+Key insights by sub-zone.
+
+Revenue analysis by division and channel.
+
+Top 5 customers and products by revenue.
+
+Yearly trends in Revenue, Gross Margin, Net Profit, and Market Share.
+
+Comparative PC market share analysis for AtliQ and its competitors.
+
+#Outcome:
+This comprehensive analysis provides a holistic view of AtliQ Hardwares’ performance across all departments, enabling data-driven strategies to improve operational efficiency, enhance market presence, and drive business growth.
